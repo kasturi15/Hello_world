@@ -1,0 +1,25 @@
+[
+	{
+		"head" : "WittyFeed",
+		"desc" : "This Summer Vacation, let's rejoice childhood!",
+		"like" : 4,
+		"hate" : 1,
+		"love" : 1
+	},
+
+	{
+		"head" : "Indulekha",
+		"desc" : "Indulekha is not just a regular hair oil, it's a clinically proven Ayurvedic medicine.",
+		"like" : 521,
+		"hate" : 5,
+		"love" : 20
+	},
+
+	{
+		"head" : "Did you Know?",
+		"desc" : "Animal costumes for the kids....melt you with tenderness",
+		"like" : 9,
+		"hate" : 3,
+		"love" : 15
+	}
+]
